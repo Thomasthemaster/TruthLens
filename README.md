@@ -71,11 +71,12 @@ How to use TruthLens:
 
 ## 📸 Screenshots
 
-[Add screenshots of your application here.]
-
-<!-- Example:
-![TruthLens Home Page](Home_Page.png)
--->
+[TruthLens Home Page](Home_Page.png)
+[Image of TruthLens Rank](Image_Of_Rank.png)
+[End of Detective Academy](Congratulations_Page.png)
+[Start of Tutorial Page](Start_Of_Tutorial.png)
+[End of Tutorial Page](End_Of_Tutorial.png)
+[Image of Case Completed](Case_Completed.png)
 
 ## 📂 Project Structure
 
