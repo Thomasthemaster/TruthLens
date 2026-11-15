@@ -102,3 +102,9 @@ TruthLens/
 ### Future Implementations
 - [ ] More cases
 - [ ] Investigate Feature
+
+---
+
+## 🛠️ TruthLens Website
+
+[Access TruthLens](https://bit.ly/truthlens3)
