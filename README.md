@@ -108,3 +108,9 @@ TruthLens/
 ## 🛠️ TruthLens Website
 
 [Access TruthLens](https://bit.ly/truthlens3)
+
+---
+
+## 👨🏻‍🏫 TruthLens Slideshow Presentation
+
+[Access TruthLens Presentation](https://bit.ly/truthlenspresent)
