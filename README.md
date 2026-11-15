@@ -107,7 +107,7 @@ TruthLens/
 
 ## 🛠️ TruthLens Website
 
-[Access TruthLens](https://bit.ly/truthlens3)
+[Access TruthLens](https://bit.ly/4zrfBMK)
 
 ---
 
