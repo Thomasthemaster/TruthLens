@@ -81,22 +81,24 @@ How to use TruthLens:
 ## 📂 Project Structure
 
 ```text
-[PROJECT NAME]/
+TruthLens/
 │
-├── [FILE 1]
-├── [FILE 2]
-├── [FILE 3]
-└── README.md
+├── app.py
+├── README.md
+├── Home_Page.png
+├── Start_Of_Tutorial.png
+├── End_Of_Tutorial.png
+├── Congratulations_Page.png
+├── Case_Completed.png
+└── Image_Of_Rank.png
 ```
-
-[Briefly explain any important files or folders.]
 
 ## 🗺️ Roadmap
 
 ### Completed
-- [x] [Completed feature]
-- [x] [Completed feature]
+- [x] Detective Academy
+- [x] Tutorial
 
-### In Progress
-- [ ] [Feature being developed]
-- [ ] [Feature
+### Future Implementations
+- [ ] More cases
+- [ ] Investigate Feature
