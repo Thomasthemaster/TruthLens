@@ -48,7 +48,7 @@ How to use TruthLens:
 1. Clone the repository:
 
    ```bash
-   git clone [YOUR REPOSITORY URL]
+   git clone https://github.com/Thomasthemaster/TruthLens
    ```
 
 2. Enter the project folder:
@@ -74,7 +74,7 @@ How to use TruthLens:
 [Add screenshots of your application here.]
 
 <!-- Example:
-![TruthLens Home Screen](screenshots/home.png)
+![TruthLens Home Page](Home_Page.png)
 -->
 
 ## 📂 Project Structure
